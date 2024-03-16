@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="judulLagu">
+        <item>1. Dari Ombak Besar</item>
+        <item>2.Hai Tanahku Papua</item>
+        <item>3. Ma"'"lumkanlah</item>
+        <item>4. Kupilih Jalan Pandu</item>
+        <item>5. Gerombolan Pandu</item>
+        <item>6. Pabila hari mulai</item>
+        <item>7. Bumi menunggukan</item>
+        <item>8. Meskipun tofan</item>
+        <item>9. Kita muda</item>
+        <item>10. Tongkat dan kaleng</item>
+    </string-array>
+
+    <string-array name="deskripsiLagu">
+        <item><!--  lagu 1 -->Do = Eb, 3/4</item>
+        <item><!--  lagu 2 -->Do = G, 4/4</item>
+        <item><!--  lagu 3 -->Do = C, 4/4</item>
+        <item><!--  lagu 4 -->Do = Eb, 6/8</item>
+        <item><!--  lagu 5 -->Do = F, 4/4</item>
+        <item><!--  lagu 6 -->Do = G, 4/4</item>
+        <item><!--  lagu 7 -->Do = G, 4/4 3/4</item>
+        <item><!--  lagu 8 -->Do = G, 4/4</item>
+        <item><!--  lagu 9 -->Do = F, 4/4</item>
+        <item><!--  lagu 10 -->Do = G, 2/4 4/4</item>
+    </string-array>
+
+    
+    <string-array name="isiLagu">
+        <item>\n
+<!--  lagu 1 -->
+                Dari ombak besar, dari lautan teduh\n
+                ada berbunyi nyanyian puji dengan suara merdu\n
+                untuk tanah mulia, untuk tanah yang baik\n
+                Yang pantainya putih, yang gunungnya naik \n
+                sampai keawan yang tertinggi dilangit terang.\n
+                Begitulah tanah tempat ku senang\n
+                Itulah tanahku Papua\n
+                \n
+                Dari awal rendah dari purba gelap\n
+                aku terpanggil, aku terbangun dan berdiri tetap,\n
+                dan melihat ke muka dengan maksud benar\n
+                hutan rimba terbuka, hasil tanah besar\n
+                Karena anakku semua sehati teguh\n
+                menanggung usaha dan panggilanku,\n
+                Hiduplah tanahku hai Papua!\n
+                \n
+                Ke benua yang jauh, darimu tercerai,\n
+                ku mengembara lihat negara yang ganjil permai.\n
+                Lautan luas yang biru, gunung rimba gelap,\n
+                kaki langit yang baru memanggil tetap.\n
+                Tapi, hai tanahku, kemanapun jalananku,\n
+                tentu aku pulang kelak padamu.\n
+                Slamatoo Tanahku hai Papua\n
+
+        </item>
+
+        <item>\n
+            <!--  lagu 2 -->
+            Hai tanah ku Papua,\n
+              Kau tanah lahirku,\n
+            Ku kasih akan dikau\n
+            sehingga ajalku.\n
+            \n
+            Kukasih pasir putih\n
+            Dipantaimu senang\
+            Dimana Lautan biru\n
+            Berkilat dalam terang.\n
+            \n
+            Kukasih gunung-gunung\n
+            Besar mulialah\n
+            Dan awan yang melayang\n
+            Keliling puncaknja.\n
+            \n
+            Kukasih dikau tanah\n
+            Yang dengan buahmu\n
+            Membayar kerajinan\n
+            Dan pekerjaanku.\n
+            \n
+            Kukasih bunyi ombak\n
+            Yang pukul pantaimu\n
+            Nyanyian yang selalu\n
+            Senangkan hatiku.\n
+            \n
+            Kukasih hutan-hutan\n
+            Selimut tanahku\n
+            Kusuka mengembara\n
+            Dibawah naungmu.\n
+            \n
+            Syukur bagimu, Tuhan,\n
+            Kau berikan tanahku\n
+            Beri aku rajin juga\n
+            Sampaikan maksudMu.\n
+        </item>
+
+        <item>\n
+            <!--  lagu 3 -->
+            Malumkanlah kaum muda tersedar, dan hendak meme
+            Gang dengan hati se-nang pekerjaannya yang be-sar.\n
+            Ku-at te-guh! Ang-kat-kan-lah be-ban Mes-ki-pun le-lah, ki-ta\n
+            tak me-nge-sah; ki-ta pu-nya za-man de-pan! Pan-du naik ke\n
+            pun-cak gu-nung, ca-ri ha-wa yang se-gar, ma-ta-mu hen-dak li-hat\n
+            rin-tis di se-mak nan-ti tin-jau-an a-kan menggem-bi-ra-kan\n
+            Sia-pa su-ka naik-kan pan-ji a-fas pe-ker-ja-an-nya, ber-te-guh-te-gap, i-ngat jan-ji-nya te-tap: Ku si-ap-lah!\n
+        </item>
+
+        <item>\n
+            <!--  lagu 4 -->
+            Kupilih jalan pandu dihidupku, yang nuntut dari\n
+            aku tugas penuh. Hendak ku berusaha,\n
+            selamanya. Kiranya Tuhan to-long: Ku siaplah!\n
+            \n
+            Melayan turut janji, aku gemar;\n
+            bersungguh hati jadi pandu benar.\n
+            Hendak ku berusaha, selamanya.\n
+            Kiranya Tuhan tolong: Ku siaplah!\n
+        </item>
+
+        <item>\n
+            <!--  lagu 5 -->
+            Ge-rom-bol-an pan-du yang mu-da se-gar, gem-bi-ra ke-
+            mu-ka te-rus Per-jan-ji-an, sa-tri-a sung-guh be-nar de-
+            ngan ci-ta-ci-ta ku-dus. Ti-a-da yang la-lai ber-
+            ha-ti le-mah, se-bab tu-rut jan-ji te-guh di-bri o-leh
+            pan-du per-to-long-an-nya di-ma-na ker-ja-nya per-lu.\n
+            \n
+            Debar jantung hidup dan langkah cepat,\n
+            semuanya ikut serta,\n
+            dengan tulus ikhlas, beban sama b"'"rat,\n
+            tiadalah tinggi rendah.\n
+            Setialah pandu kepada teman,\n
+            bersiul dan tak mengeluh,\n
+            membuat yang wajib dan tidak segan,\n
+            dimana kerjanya perlu.\n
+        </item>
+        <item>
+            <!--  lagu 6 -->\n
+            Pabila hari mulai g"'"lap dan malam pun teduh\n
+            keritkan garis segera dan pasang apimu\n
+            Dan dari ranting nya terbit cahaya nyala berbelit \n yang merah berbelit!\n
+            \n
+            Kau duduk dicahaya t"'"rang, kau tahu artinya:\n
+            merancang baru dan senang dengar ceritera.\n
+            Dan dari lingkarmu terbit nyanyian nyala berbelit \n yang merah berbelit!\n
+        </item>
+        <item>
+            <!--  lagu 7 -->\n
+            Bumi menunggukan kita jauh terbuka luasnya\n
+            mari bergandengaan tangan maksud baik\n
+            tujuilah Tentara puteri lengkap kiranya kuatnya\n
+            genap membri bumi sukacita damai sungguh\n
+            yang tetap.
+            Bendera damai tiga setangkai\n
+            sehari hari tinggikanlah! Dan cita-cita\n
+            serikat kita sejahtera didunia!\n
+            \n
+            akan janji serta syarat dan semboyan siaplah,\n
+            kitapun tetap setia zaman baru merekah!\n
+            Terang mengkilatkan embun lenyaplah malam\n
+            lamapun.\n
+            Bendera damai, .......\n
+            \n
+            Kidungkita bersuara diseluruh dunia.\n
+            Berkasihan dan berani kita akan bekerja.\n
+            Terpanggillan kecil besar, menjadi pandu yang\n
+            benar yang menurut suara Tuhan, kuat, suci\n
+            dan segar. Bendera damai,.....\n
+
+        </item>
+        <item>
+            <!--  lagu 8 -->\n
+            Meskipun tofa memekik kemuka ki-ta jua!\n
+            Kemuka kita menyerang, walaupun jalan\n
+            tak senang, menyongsong fajar t"'"rang! \n Menyongsong fajar t"'"rang!\n
+            \n
+            Rintangan tidak menengah di jalan yang di \n muka.
+            Bahagia, kesukaan\n
+            sedia di zaman depan\n
+            Menyongsong fajar t"'"rang! 2x\n
+            \n
+            Beban pun tak terlalu b"'"rat di atas bahu muda.\n
+            Di hutan kita meretas,\n
+            bertindak b"'"rani dan tegas\n
+            Menyongsong fajar t"'"rang! 2x\n
+        </item>
+
+        <item>
+            <!--  lagu 9 -->\n
+            Kita muda kita kuat dan terbuka dunia.\n
+            Panggilannya mari buat tugasmu dan bekerja!\n
+            Kalau harap mu mau hilang jangan duduk \n gemetar,
+            lihat siang bergemilang! Kita muda \n dan segar!\n
+            \n
+            Dibelakang gunung itu tanah baru terletak.\n
+            mari ikutlah ke situ kita harus bergerak.\n
+            Laut dan darat ada tunggu, sampai kita \n tersedar.
+            Kita cari hidup sungguh! Kita muda \n dan segar!\n
+            \n
+            Kita maju siang hari dalam rimba dan semak.\n
+            Bintang sudi menyinari jalan yang gelap kelak,\n
+            Hujan tak menggangu kita, meski banjirnya \n besar!
+            Nyanyi dengan sukacita: Kita muda \n dan segar!\n
+        </item>
+
+        <item>
+            <!--  lagu 10 -->\n
+            Tongkat dan kaleng bekalan leng-kap Hei-la hi\n
+            ho! t"'"rus mengembara sehari genap.\n
+            Heila hi-ho! Dipantai laut dalam angin sejuk\n
+            da-lam t"'"rang fajar berkilat teluk.\n
+            Unggas menyanyi bergirang gemar kita \n bersorak bersura besar\n
+            Heila hiho! Heila hiho! Heila hiho!\n
+            \n
+            Mendaki batu yang tajam, keras! Heila, hiho!\n
+            Arungi sungai yang dingin, deras, Heila, hiho!\n
+            Masuk ke hutan gelap dan lebat,\n
+            naik sama-sama dan jangan sesat.\n
+            Baru di puncak berhenti senang,\n
+            kita meninjau ke dunia terang. Heila hiho 3x\n
+            \n
+            Mari kembali ke bawah seg"'"ra! Heila, hiho!\n
+            Turun ke jurang dengan kolamnya. Heila, hiho!\n
+            Loncat dan mandi di air yagn terjun\n
+            habis lelah dan keringatmu pun.\n
+            Jangkrik beribu keti berkerik\n
+            kitapun pulang dengan bertempik Heila hiho! 3x\n
+        </item>
+
+    </string-array>
+
+
+
+</resources>

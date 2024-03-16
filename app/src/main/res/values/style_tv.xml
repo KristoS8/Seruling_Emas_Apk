@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="tv" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="tv.bold">
+        <item name="android:fontFamily">@font/freesansbold</item>
+    </style>
+
+    <style name="tv.normal">
+        <item name="android:fontFamily">@font/freesans</item>
+    </style>
+
+    <style name="tv.thin">
+        <item name="android:fontFamily">@font/pragmaticaextralight</item>
+    </style>
+
+    <style name="tv.bold.16">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="tv.bold.26">
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="tv.bold.20">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="tv.bold.10">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="tv.normal.16">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="tv.normal.20">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="tv.normal.24">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="tv.normal.10">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="tv.thin.16">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="tv.thin.20">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="tv.thin.10">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+</resources>
