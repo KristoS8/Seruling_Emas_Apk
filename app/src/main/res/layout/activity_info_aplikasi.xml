@@ -4,16 +4,143 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Activity.infoAplikasiActivity">
+    tools:context=".Activity.infoAplikasiActivity"
+    android:background="@color/vanilla"
+    >
 
     <TextView
+        android:id="@+id/textView2"
+        style="@style/tv.bold.16"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Info Aplikasi"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="70dp"
+        android:text="Tentang Aplikasi"
         android:textSize="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imgBackFromInfo"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/icon_back"
+        android:layout_margin="19dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/tv_isi"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginTop="34dp"
+        android:gravity="center"
+        android:background="@drawable/shape_layout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aplikasi Ini Merupakan Tugas Kelompok Dari Mata Kuliah Tugas Khusus Universitas Papua Yang Dibimbing Oleh Pak Julius Naibaho, S.Kom.,M.Kom. Berikut Merupakan Daftar Anggota Kelompok"
+            style="@style/tv.normal.16"
+            android:textColor="@color/white"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            />
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/shape_layout"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_isi">
+
+        <TextView
+            android:id="@+id/textView3"
+            style="@style/tv.bold.16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.Kristo Samosir"
+            android:textColor="@color/white"
+            android:layout_marginTop="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView4"
+            style="@style/tv.bold.16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2.Yanshi Ratte"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+        <TextView
+            android:id="@+id/textView5"
+            style="@style/tv.bold.16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3.Ais Fernandes Sembor"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+        <TextView
+            android:id="@+id/textView6"
+            style="@style/tv.bold.16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Arniawati"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+        <TextView
+            android:id="@+id/textView7"
+            style="@style/tv.bold.16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Foebryani Elsa Sarungalo"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+        <TextView
+            android:id="@+id/textView8"
+            style="@style/tv.bold.16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6. Kaleb ottouw Bonggoibo"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:id="@+id/tv_isi_info_apk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_margin="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
