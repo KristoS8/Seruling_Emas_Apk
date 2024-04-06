@@ -12,6 +12,22 @@
         <item>8. Meskipun tofan</item>
         <item>9. Kita muda</item>
         <item>10. Tongkat dan kaleng</item>
+        <item>11. Meskipun Gunung</item>
+        <item>12. Majulah p"'"rahuku</item>
+        <item>13. Siapa Tolong</item>
+        <item>14. Tutupkan Susah Kamu</item>
+        <item>15. Dengarlah, Hai Bangsa</item>
+        <item>16. Sesudah Pekerjaan</item>
+        <item>17. Pabila Hatimu</item>
+        <item>18. Ayoh, ayoh</item>
+        <item>19. Sebagai biduk perak</item>
+        <item>20. Burung rajawali</item>
+        <item>21. Kampung pasisir</item>
+        <item>22. Pasir Laut</item>
+        <item>23. Bunga Matahari</item>
+        <item>24. Di Tanah Jauh Dan</item>
+        <item>25. Kenangan Tempo</item>
+
     </string-array>
 
     <string-array name="deskripsiLagu">
@@ -25,6 +41,21 @@
         <item><!--  lagu 8 -->Do = G, 4/4</item>
         <item><!--  lagu 9 -->Do = F, 4/4</item>
         <item><!--  lagu 10 -->Do = G, 2/4 4/4</item>
+        <item><!--  lagu 11 -->Do = C, 4/4</item>
+        <item><!--  lagu 12 -->Do = C, 4/4</item>
+        <item><!--  lagu 13 -->Do = D, 4/4</item>
+        <item><!--  lagu 14 -->Do = G, 2/4</item>
+        <item><!--  lagu 15 -->Do = G, 2/4</item>
+        <item><!--  lagu 16 -->Do = Eb, 2/4</item>
+        <item><!--  lagu 17 -->Do = G, 3/4</item>
+        <item><!--  lagu 18 -->Do = Bb, 4/4</item>
+        <item><!--  lagu 19 -->Do = G, 4/4</item>
+        <item><!--  lagu 20 -->Do = Bb, 4/4</item>
+        <item><!--  lagu 21 -->Do = G , 3/4</item>
+        <item><!--  lagu 22 -->Do = D , 4/4</item>
+        <item><!--  lagu 23 -->Do = G , 4/4</item>
+        <item><!--  lagu 24 -->Do = G , 3/4</item>
+        <item><!--  lagu 25 -->Do = Eb , 4/4</item>
     </string-array>
 
     
@@ -226,6 +257,286 @@
             habis lelah dan keringatmu pun.\n
             Jangkrik beribu keti berkerik\n
             kitapun pulang dengan bertempik Heila hiho! 3x\n
+        </item>
+
+        <item>
+            <!--  lagu 11 -->\n
+            Meskipun gunung tinggi, kita mendakinya.\n
+            Naik lebih tinggi lagi, sampai kepuncaknya.\n
+            Mau mendengar asal angin segar, lihat\n
+            perhinggaan bumi besar. Alangkah luas bumi,\n
+            alanghak luasnya!\n
+            \n
+            Air dingin berpancar, lalu terjun-terjun.\n
+            Angin putih melancar, suka menyanyi pun.\n
+            Dan langit biru melambai tetap:\n
+            Hai, kamu naik dari hutan gelap!\n
+            Alangkah luas bumi, alangkah luasnya!\n
+            \n
+            Sudah sampai ke atas, pohonnya ditebang\n
+            dan dengan tak berbatas kita melihat t"'"rang.\n
+            Heranlah kita siapa tahu\n
+            tanjung dan puncak dan pulau yang jauh.\n
+            Alangkah luas bumi, alangkah luasnya!\n
+        </item>
+
+        <item>
+            <!--  lagu 12 -->\n
+            Majulah, p"'"rahuku; majulah! Majulah, p"'"rahuku\n
+            majulah! Dalam rumahnya tentu tunggu harta \n hatiku.
+            Majulah, p"'"rahuku, majulah! majulah!\n
+        </item>
+
+        <item>
+            <!--  lagu 13 -->\n
+            Siapa tolong membangunkan hidup sehat dan\n
+            segar, ikut dalam perjanjian, maksud kami \n yang benar!\n
+            Segera, ikutlah! Kuatmu perlu untuk tanahmu.\n
+            Bergerak dan tegak, makmur tanahmu ke lak!\n
+            \n
+            Jangan malas, jangan mabuk;\n
+            pakai kuatmu penuh.\n
+            Tiap hari garu tunjuk\n
+            kesungguhan maksudmu.\n
+            Tahanlah bekerja!\n
+            Rumah tanggamu haruslah sembuh;\n
+            cukupkan makanan,\n
+            tambahkan kesehatan!\n
+            \n
+            Jangan kamu buang kuat\n
+            sampai rusak hidupmu!\n
+            Pakai gaji kamu buat\n
+            rumah sehat dan teguh.\n
+            Dantentu, cintamu\n
+            harus suci dan bersetiawan.\n
+            Sungguhlah olehnya\n
+            tanah berbahagia!\n
+        </item>
+
+        <item>
+            <!--  lagu 14 -->\n
+            Tutupkan susah kamu dipeti dan tersenyum!\n
+            jalan kemana kamu mengerti, ataupun belum.\n
+            Apa guna mengeluh? Tentu percuma, jadi:\n
+            Tutupkan susah kamu dipeti dan tersenyum\n
+        </item>
+
+        <item>
+            <!--  lagu 15 -->\n
+            Dengarlah, hai bangsa semua, dengar; \n
+            hendak berkerumun dan ramai. Berhimpun dan \n
+            jadi serikat besar dan ikutlah tentara damai.\n
+            berhenti perang dan berbatah-bantah;\n
+            pecahkan meriam dan bedil.\n
+            Kerjakan sejaht"'"ra dan turut perintah\n
+            Panglima yang baik dan adil.\n
+            \n
+            Hai, pukullah tambur dan gung pegerah.\n
+            Benua semua sedia.\n
+            Serikat sejaht"'"ra dan tentaranya\n
+            berdiri lengkap dan setia.\n
+            Tak boleh merombak dan mengeratkan,\n
+            Yang wajib yuitu kerja,\n
+            persatukan bangsa, mengadakan damai,\n
+            mencari selamat baka.\n
+            \n
+            Pedang dan meriam tak berguna besar:\n
+            pembawa celaka dan duka.\n
+            Senjata sejaht"'"ra berlainan benar\n
+            dan injil berjalan di muka.\n
+            Berilah berbunyi dimana-mana\n
+            perkakas di darat dan laut.\n
+            Dan dirikan benteng selamat dan kasih,\n
+            melawan keg"'"lapan dan maut.\n
+        </item>
+
+        <item>
+            <!--  lagu 16 -->\n
+            Sesudah pekerjaan semua selesai, berkumpul\n
+            kawankawan, membuang kelelehan di\n
+            taman yang permai, ditaman yang permai.\n
+            S"'"lamat bertemu, sobatsobatku!\n
+            Beramailah kemari, bertari!\n
+            \n
+            Kerja selama siang sekuat-kuatnya,\n
+            supaya kemudian engkau berhati riang,\n
+            senang, berbagia.(2x)\n
+            Panggil kawanmu, sobat-sobatku!\n
+            Beramailah kemari, bertari!\n
+            \n
+            Bunyikalan seruling, petik gitar-gitar!\n
+            Penari berkeliling di rumput hijau kuning\n
+            berlingkaran besar. (2x)\n
+            Nyanyi kidungmu, sobat-sobatku!\n
+            Beramailah kemari, bertari!\n
+        </item>
+        <item>
+            <!--  lagu 17 -->\n
+            Pabila hatimu bergirang, panggil orang,\n
+            jangan kurang; pabila hatimu bergirang,\n
+            panggil sobat dan teman.\n
+            Tari bernyanyi bertiup suling,\n
+            riang dan ringan tak berlelah. Tari berlenggang\n
+            sebagai burung riang dan ringan tak berlelah.\n
+        </item>
+
+        <item>
+            <!--  lagu 18 -->\n
+            Ayoh, Ayoh, keluar! Hai, bangun dari tikar-mu!\n
+            Hai, jangan matahari hai jangan matahari,\n
+            melihat malasmu, melihat malasmu! Ayoh!Ayoh!\n
+            \n
+            Hai, rajin disekolah dan rajin pula di kebun!\n
+            Begitu rohmu sehat, begitu rohmu sehat,\n
+            dan kuat badanpun,\n
+            dan kuat badanpun! Ayoh! Ayoh!\n
+            \n
+            Cahaya matahari segarkan badan-jiwaku!\n
+            Dan dengan hati riang, dan dengan hati riang,\n
+            kumulai kerjaku, kumulai kerjaku! Ayoh! Ayoh!\n
+            \n
+            Dan kalau watu malam sedia pekerjaanmu,\n
+            beri syukur dan hormat kepada Tuhanmu,\n
+            beri syukur dan hormat kepada Tuhanmu,\n
+            yang dari pagi ini sehingga hari\n
+            malamlah, b"'"ri banyak kesenangan, b"'"ri riang\n
+            kau kerja, b"'"ri banyak kesenangan, b"'"ri riang\n
+            kau kerja. Syukur! Syukur!\n
+            \n
+            (ulangkan ayat pertama!)\n
+            (Sesudah diulangkan ayat pertama, ayat itu dikuncikan dengan;)\n
+            \n
+            A-yoh! A-yoh! A-yoh! A-yoh! A-yoh! A-yoh! A-yoh! A-yoh!\n
+            \n
+            (Ayat pertama sampai ketiga dapat disertai\n
+            oleh orang lain yang menyanyi: ting-tang)\n
+        </item>
+
+        <item>
+            <!--  lagu 19 -->\n
+            Sebagai biduk perak melancar bulan t"'"rang\n
+            didalam air biru semudera tenang.\n
+            Tak ada ribut lagi dan hujan pun teduh.\n
+            Dihutan kedengaran suara yang merdu.\n
+            \n
+            Yang tua, di serambi, bercakap-cakapan.\n
+            yang muda mau menari dengan teman-teman.\n
+            Loncatan gaba-gaba: tuk-tuk, tak-tak, tuk-tuk,\n
+            berbunyi ramai-ramai dihawa yang sejuk.\n
+            \n
+            Melihat dari atas tempat kesukaan,\n
+            kelapa yang melambai berbisik-bisikan:\n
+            Jikalau bersehati, manusia senang;\n
+            sejahtera mau diam di hati yang terang.\n
+        </item>
+
+        <item>
+            <!--  lagu 20 -->\n
+            Burung rajawali naik mencari t"'"rang;\n
+            atas sayap nyanyian jiwaku terbang.\n
+            Hati bergemar;\n
+            cintaku benar dan disucikan oleh nyanyian.\n
+            \n
+            Yang kepada hati b"'"ri penghiburan,\n
+            kasih, kesetiaan dan persatuan,\n
+            dibangunkannya, dihidupkannya dan\n
+            dikuatkah oleh nyanyian!\n
+
+        </item>
+
+        <item>
+        <!--  lagu 21  -->\n
+            Kampung pasisir yang kaya benar;\n
+            sago dan ikan dan k"'"lapa kelimpahan.\n
+            Kampung pasisir yang saya gemar.\n
+            \n
+            Kampung diudik yang amat senang: 2x\n
+            ubi dan babi dan k"'"ladi kelimpahan.\n
+            Kampung diudik yang memang menang.\n
+            \n
+            Kampung pasisir yang bagus benar: 2x\n
+            luaslah lautan, kapar berlayaran.\n
+            kampung pasisir yang saya gemar.\n
+            \n
+            Kampung diudik sejuk dan senang: 2x\n
+            gunungnya dan lembah, alangkah eloknya.\n
+            Kampung diudik yang memang menang.\n
+            \n
+            Apakah gunanya mau berkelahi? 2x\n
+            Tiap manusia rindukan tanahnya;\n
+            tanah kelahiran tentu permai.\n
+        </item>
+
+        <item>
+            <!--  lagu 22 -->\n
+            Pasisir laut dan hutan di tanahairku,\n
+            kautarik rindu hati kepadamu.\n
+            Aku terkenang tempat yang senang!\n
+            Kau tarik rindu hati kepadamu.\n
+            \n
+            Segala batu pantai menjadi sobatku.\n
+            Tak boleh aku lupa permainanmu.\n
+            Aku terkenang\n
+            \n
+            Kuingant t"'"rang berkilat di muka lautmu.\n
+            Ah, bidukku terapung diombakmu.\n
+            Aku terkenang..\n.
+            \n
+            Ku mengembara lagi di hutan yang lebat,\n
+            tahu tiap-tiap jalan dan tak sesat.\n
+            Aku terkenang.\n
+            \n
+            Sekali aku pulang ketanah-airku.\n
+            Kautarik rindu hati kepadamu. Aku terkenang.\n
+
+        </item>
+
+        <item>
+            <!--  lagu 23 -->\n
+            Bunga matahari, lampunya lengkap,\n
+            rela menyinari tamanku tetap.\n
+            Ia tidak suka sombong dan tegar;\n
+            hatinya terbuka bagi t"'"rang besar.\n
+            \n
+            Mukanya mencari, rela dan rendah,\n
+            sinar matahari untuk lampunya.\n
+            Sinarnya semua langsung diberi;\n
+            mata kita juga mulai berseri.\n
+            \n
+            Kamu buka hati, lampumu lengkap,\n
+            agar diberkati dunia gelap.\n
+            T"'"rima sinar Tuhan dan siarkannya;\n
+            bumi memerlukan t"'"rangNya yang baka.\n
+        </item>
+
+        <item>
+            <!--  lagu 24 -->\n
+            Ditanah jauh dan dekat belum kedapatan\n
+            tempat yang waktu malam ditengah alam\n
+            begini baik, yang waktu malam ditengah\n
+            alam begini baik.\n
+            \n
+            Dihawa taman yang tenang berlingkar\n
+            kita besenang dengan menyanyi; \n
+            terdengar bunyi gema merdu(2x)\n
+            \n
+            Kiranya kita s"'"kalian kerap-kerap dikumpulkan,\n
+            dan banyak kali senang kembali \n bernyanyian (2x)\n
+        </item>
+
+        <item>
+            <!--  lagu 25 -->\n
+            Kenangan tempo yang lenyap dengan \n
+            kenalannya hendak dihormati tetap\n
+            dan jangan tercela.\n
+            Silakan sobat ambillah teguk dan santapan,\n
+            dan tempo dulu yang senang hendak\n
+            dituturkan.\n
+            \n
+            Berjabat tangan, sobatku!\n
+            Kau masih ingatkah?\n
+            Setiaku, setiamu, tak hilang kuatnya.\n
+            Silakan...\n
         </item>
 
     </string-array>
