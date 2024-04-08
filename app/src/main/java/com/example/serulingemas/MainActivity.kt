@@ -10,9 +10,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        // hide action bar
         supportActionBar?.hide()
-
+        // splash screen 2 sec
         Handler().postDelayed({
             startActivity(Intent(this@MainActivity, LandingPageActivity::class.java))
             finish()

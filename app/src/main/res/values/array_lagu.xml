@@ -27,6 +27,11 @@
         <item>23. Bunga Matahari</item>
         <item>24. Di Tanah Jauh Dan</item>
         <item>25. Kenangan Tempo</item>
+        <item>26. Hawa Tenang Sore</item>
+        <item>27. Enam hari banting</item>
+        <item>28. Ya surga put"'"ra</item>
+        <item>29. Angin Bukit</item>
+        <item>30. Segala Bunga</item>
 
     </string-array>
 
@@ -56,6 +61,13 @@
         <item><!--  lagu 23 -->Do = G , 4/4</item>
         <item><!--  lagu 24 -->Do = G , 3/4</item>
         <item><!--  lagu 25 -->Do = Eb , 4/4</item>
+        <item><!--  lagu 26 -->Do = Eb , 6/8</item>
+        <item><!--  lagu 27 -->Do=G , 3/4</item>
+        <item><!--  lagu 28 -->Do = F , 6/8</item>
+        <item><!--  lagu 29 -->Do = G , 6/8</item>
+        <item><!--  lagu 30 -->Do=G , 4/4</item>
+
+
     </string-array>
 
     
@@ -537,6 +549,86 @@
             Kau masih ingatkah?\n
             Setiaku, setiamu, tak hilang kuatnya.\n
             Silakan...\n
+        </item>
+
+        <item>
+            <!--  lagu 26 -->\n
+            Hawa tenang sore Sabtu barat berwarna permai\n
+            kita menyukai waktu tugas kerja selesai\n
+            Lonceng berbunyi menyiarkan jauh;\n
+            Besoklah Minggu, hendak ka-mu tahu.\n
+            Lonceng bernyanyi terus, bukalah hari kudus.\n
+            \n
+            Turun senja bersejaht"'"ra, mulailah bintah gerlap\n
+            jadi perhiasan tahta Tuhan yang jaga tetap Lonceng\n
+            \n
+            Habis kerja kau berhenti, inilah tanda teguh\n
+            ada perhentian nati dalam tempat Tuhanmu Lonceng\n
+        </item>
+
+        <item>
+            <!--  lagu 27 -->\n
+            Enam hari banting tulang kuat-kuat bekerja\n
+            tapi besok hari Minggu dilepaskan lelah.\n
+            \n
+            Dengan otak dengan tangan berusahalah terus\n
+            tapi besok hari Minggu, perhentian kudus.\n
+            \n
+            Enam hari suka rajin tidak usah ditegur.\n
+            Hari Minggu puji Tuhan dan mengucap syukur.\n
+            \n
+            Yang berjalan dengan Tuhan tidak dapat\n
+            menyesal merayakan dengan Dia hari\n
+            Minggu kekal.\n
+        </item>
+
+        <item>
+            <!--  lagu 28 -->\n
+            Ya surga put"'"ra yang lembut teduh Kau tidurlah\n
+            Malaekat banyak bertelut merdu nyanyiannya.\n
+            Gembala miskin pun tentu menyanyi didung\n
+            bagiMu S"'"lamat s"'"lamat Surga Put"'"ra s"'"lamat\n
+            \n
+            Dijagai Marjam Kau hendak selamat dan\n
+            senang tak b"'"rani Jusuf bergerak\n
+            pelitanya terang Segala domba pun\n
+            kelu disamping tempat tidurMu\n
+            S"'"lamat, s"'"lamat, Surga Put"'"ra s"'"lamat\n
+            \n
+            Ah nanti atas Golgota, tertumpah darahMu\n
+            supaya kaum manusia selamat dan sembuh\n
+            Gembala miskin inilah selalu hendak\n
+            menyembah\n
+            S"'"lamat, s"'"lamat Surga Put"'"ra s"'"lamat\n
+        </item>
+
+        <item>
+            <!--  lagu 29 -->\n
+            Angin bukit bertiup sejuk tetapi dikandang\n
+            teduh Maria membuaikan bayinya dan\n
+            tangannya telah lelah Ah Yosef anjurkan\n
+            tanganmu buaikan juga anakku!\n
+            Masakan dapat membuai aku\n
+            sebab jari tanganku sudah kaku!\n
+            Syum syai syum syai\n
+        </item>
+
+        <item>
+            <!--  lagu 30 -->\n
+            Segala bunga tidur, tertutup kuntumnya\n
+            kepalanya tertunduk diatas tangkainya\n
+            Berbisiklah daun rumbia, suaranya merdu\n
+            S"'"lamat s"'"lamat s"'"lamat tidur adikku\n
+            \n
+            Trang siang jadi malam dan burung yang lelah\n
+            berhenti dari nyanyi, mencari sarangnya\n
+            tetapi jangkrik tinggallah berkidung bagimu\n
+            S"'"lamat, s"'"lamat, s"'"lamat tidur adikku\n
+            \n
+            Tak usah takut mara kau tidurlah senang\n
+            dan tutup mata saja bermimpi sampai t"'"rang\n
+            Malaekat Tuhan adalah tetap disisimu\n
+            S"'"lamat, s"'"lamat, s"'"lamat tidur adikku\n
         </item>
 
     </string-array>

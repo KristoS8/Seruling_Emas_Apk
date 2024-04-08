@@ -23,12 +23,14 @@ class LandingPageActivity : AppCompatActivity() {
 
         binding = ActivityLandingPageBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
+        //button ke info aplikasi
         binding.imgBtnInfoAplikasi.setOnClickListener{
             startActivity(Intent(this@LandingPageActivity, infoAplikasiActivity::class.java))
         }
-
+//        init rv linear layout manager (vertical)
         init()
+
+        //fungsi untuk set adapter pada rv (adapter view)
         setAdapterView()
 
     }
@@ -36,7 +38,7 @@ class LandingPageActivity : AppCompatActivity() {
     private fun setAdapterView() {
 
         val listData: MutableList<laguModel> = mutableListOf()
-
+        // ambil data sebanyak index pada array lagu
         judulLagu().forEachIndexed{ index, nama ->
             listData.add(
                 laguModel(
@@ -89,6 +91,7 @@ class LandingPageActivity : AppCompatActivity() {
 
     }
 
+    // ambil judul,deskripsi dan isi dari array
     private fun judulLagu(): Array<String> = resources.getStringArray(R.array.judulLagu)
     private fun deskripsiLagu(): Array<String> = resources.getStringArray(R.array.deskripsiLagu)
     private fun isiLagu(): Array<String> = resources.getStringArray(R.array.isiLagu)

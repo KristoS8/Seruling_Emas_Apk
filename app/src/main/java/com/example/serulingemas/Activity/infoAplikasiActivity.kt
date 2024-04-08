@@ -15,7 +15,7 @@ class infoAplikasiActivity : AppCompatActivity(), View.OnClickListener {
         super.onCreate(savedInstanceState)
         binding = ActivityInfoAplikasiBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
+        // activity info aplikasi, not to important
         binding.imgBackFromInfo.setOnClickListener(this)
 
     }

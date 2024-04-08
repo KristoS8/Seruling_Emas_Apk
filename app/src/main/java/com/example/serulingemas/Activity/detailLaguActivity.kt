@@ -15,8 +15,9 @@ class detailLaguActivity : AppCompatActivity(), View.OnClickListener {
         super.onCreate(savedInstanceState)
         binding = ActivityDetailLaguBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        val bundle = intent.extras
 
+        val bundle = intent.extras
+        // activity untuk tampilkan data lagu
         binding.tvjudullagudetail.text = bundle?.getString("judulLagu")
         binding.tvdeskripsidetail.text = bundle?.getString("deskripsiLagu")
         binding.tvisidetail.text = bundle?.getString("isiLagu")
@@ -26,6 +27,7 @@ class detailLaguActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     override fun onClick(v: View) {
+        // untuk balik ke halaman sebelumnya
         when(v.id){
             R.id.imgBack -> {
                 val intent = Intent()
